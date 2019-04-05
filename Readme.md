@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/WpfApplication15/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication15/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/WpfApplication15/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication15/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfApplication15/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication15/MainWindow.xaml.vb))
 * [ViewModel.cs](./CS/WpfApplication15/ViewModel.cs) (VB: [ViewModel.vb](./VB/WpfApplication15/ViewModel.vb))
 <!-- default file list end -->
 # How to implement the Master-Details functionality with two GridControls
